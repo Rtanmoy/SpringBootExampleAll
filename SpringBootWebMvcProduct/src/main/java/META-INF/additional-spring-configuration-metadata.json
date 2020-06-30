@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasouce.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouce.url'"
+  },
+  {
+    "name": "server.servlet.contex-path",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servlet.contex-path'"
+  },
+  {
+    "name": "spring.jpa.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dialect'"
+  }
+]}

@@ -1,0 +1,19 @@
+my:
+  appname: ABC
+spring:
+  profiles:
+    include: proddb,prodemail,produrl
+
+---
+my:
+  email:
+    host: yahoo
+    port: 589
+---
+my:
+  db:
+    driver: mysql
+    url: jdbc:oracle
+---
+my:
+  url: abc@yahoo.com 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=demo/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/boot\/spring-boot\/2.1.5.RELEASE\/spring-boot-2.1.5.RELEASE.jar&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1559054946079"/>
+<typeInfo handle="=SpringBootDataJpaDEMO/C:\/Users\/rtanm\/.m2\/repository\/mysql\/mysql-connector-java\/8.0.16\/mysql-connector-java-8.0.16.jar&lt;com.mysql.cj.x.protobuf(MysqlxCrud$Projection.class[Projection" modifiers="25" timestamp="1558340259230"/>
+<typeInfo handle="=SpringBootDataJpaDEMO/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.1.8.RELEASE\/spring-data-commons-2.1.8.RELEASE.jar&lt;org.springframework.data.projection(ProjectionFactory.class[ProjectionFactory" modifiers="1537" timestamp="1560272852854"/>
+<typeInfo handle="=SpringBootDataJpaDEMO/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.1.8.RELEASE\/spring-data-commons-2.1.8.RELEASE.jar&lt;org.springframework.data.domain(Pageable.class[Pageable" modifiers="1537" timestamp="1560272852854"/>
+<typeInfo handle="=ProductApplication/C:\/Users\/rtanm\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.3.10.Final\/hibernate-core-5.3.10.Final.jar&lt;org.hibernate.dialect(MySQL55Dialect.class[MySQL55Dialect" modifiers="33" timestamp="1560272819156"/>
+<typeInfo handle="=SpringBootCache/src\/main\/java&lt;com.app.service{ICustomerService.java[ICustomerService" modifiers="513" timestamp="1564133274386"/>
+<typeInfo handle="=ProductApplication/C:\/Users\/rtanm\/.m2\/repository\/jstl\/jstl\/1.2\/jstl-1.2.jar&lt;javax.servlet.jsp.jstl.core(Config.class[Config" modifiers="33" timestamp="1561014147578"/>
+<typeInfo handle="=SpringBootCache/src\/main\/java&lt;com.app.config{HazelCastConfig.java[HazelCastConfig" modifiers="1" timestamp="1563385365089"/>
+<typeInfo handle="=SpringBootBatch-1/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/batch\/spring-batch-core\/4.1.2.RELEASE\/spring-batch-core-4.1.2.RELEASE.jar&lt;org.springframework.batch.core(JobExecutionListener.class[JobExecutionListener" modifiers="1537" timestamp="1563711264244"/>
+<typeInfo handle="=SpringBootDataJpaStreamEx1/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/boot\/spring-boot\/2.1.6.RELEASE\/spring-boot-2.1.6.RELEASE.jar&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1561029133669"/>
+<typeInfo handle="=SpringBootReSTApplication/src\/main\/java&lt;com.app.service{IStudentService.java[IStudentService" modifiers="513" timestamp="1564685650520"/>
+<typeInfo handle="=SpringBootDataJpaDEMO/C:\/Users\/rtanm\/.m2\/repository\/mysql\/mysql-connector-java\/8.0.16\/mysql-connector-java-8.0.16.jar&lt;com.mysql.cj.jdbc(Driver.class[Driver" modifiers="33" timestamp="1558340259230"/>
+<typeInfo handle="=SpringRestApplication/src\/main\/java&lt;com.app.service{ICustomerService.java[ICustomerService" modifiers="513" timestamp="1564689731050"/>
+<typeInfo handle="=SpringRestApplication/src\/main\/java&lt;com.app.service{IEmployeeService.java[IEmployeeService" modifiers="513" timestamp="1564693454546"/>
+<typeInfo handle="=SpringBootDataJpaStreamEx1/C:\/Users\/rtanm\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.1.9.RELEASE\/spring-data-jpa-2.1.9.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1561029111652"/>
+<typeInfo handle="=SpringRestApplication/src\/main\/java&lt;com.app.service{IItemService.java[IItemService" modifiers="513" timestamp="1564694037900"/>
+<typeInfo handle="=SpringRestApplication/C:\/Program Files\/Java\/jdk1.8.0_202\/jre\/lib\/rt.jar&lt;javax.imageio.event(IIOWriteProgressListener.class[IIOWriteProgressListener" modifiers="1537" timestamp="1553074374786"/>
+</typeInfoHistroy>

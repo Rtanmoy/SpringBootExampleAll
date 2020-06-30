@@ -1,0 +1,46 @@
+package com.app.service.impl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.app.model.Customer;
+import com.app.model.Item;
+import com.app.repo.ItemRepository;
+import com.app.service.IItemService;
+
+public class ItemServiceImpl implements IItemService {
+	@Autowired
+	private ItemRepository repo;
+	@Transactional
+	public Integer saveItem(Item i) {
+		
+		i=repo.save(i);
+		return i.getId();
+	}
+
+	@Transactional(readOnly = true)
+	public List<Item> getAllItems() {
+		List<Item> itemlist=repo.findAll();
+		if(itemlist!=null && !itemlist.isEmpty()) {
+			itemlist.stream()
+			.sorted((s1,s2)->s1.getCode()
+					.compareTo(s2.getCode()));
+		}
+		return custlist;
+	}
+
+	@Override
+	public Item getOneItem(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteItem(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

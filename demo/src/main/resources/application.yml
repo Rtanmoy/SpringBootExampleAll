@@ -1,0 +1,17 @@
+my:
+  data:
+     sid: 157
+     scode: ASF
+     sfee: 25.25
+     
+     sprjs:
+       - P33
+       - P44
+       - P55
+     subjs:
+        s1: ENG
+        s2: BEN
+     pob:
+       prj-id: 6580
+       prj-code: HTC
+       prj-cost: 5.6

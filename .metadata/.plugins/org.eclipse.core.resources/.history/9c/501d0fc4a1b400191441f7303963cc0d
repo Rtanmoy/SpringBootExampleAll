@@ -1,0 +1,34 @@
+package com.app.service.impl;
+
+import java.util.List;
+
+import com.app.model.Item;
+import com.app.service.IItemService;
+
+public class ItemServiceImpl implements IItemService {
+
+	@Override
+	public Integer saveItem(Item i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Item> getAllItems() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item getOneItem(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteItem(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

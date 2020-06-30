@@ -1,0 +1,4 @@
+my:
+  email:
+    host: yahoo
+    port: 589

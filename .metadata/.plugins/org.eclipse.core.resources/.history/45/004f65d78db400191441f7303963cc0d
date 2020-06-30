@@ -1,0 +1,21 @@
+package com.app.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.app.model.Student;
+import com.app.repo.SudentRepository;
+import com.app.service.IStudentService;
+
+public class StudentServiceImpl implements IStudentService {
+     @Autowired
+     private SudentRepository repo;
+     
+     
+	@Transactional
+	public Integer saveStudent(Student s) {
+		s=repo.save(s);
+		return s.getStdId();
+	}
+
+}

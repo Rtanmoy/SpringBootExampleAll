@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootHazelCast"/>
+<aop-project name="SpringBootBatch-1"/>
+<aop-project name="SpringBootApp"/>
+<aop-project name="SpringBootEmailEx"/>
+<aop-project name="SpringMicroProducerEx1"/>
+<aop-project name="SpringBootFirstApp"/>
+<aop-project name="SpringMicroEurekaServer"/>
+</aop-reference-model>

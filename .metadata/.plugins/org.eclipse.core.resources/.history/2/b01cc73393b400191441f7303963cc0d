@@ -1,0 +1,18 @@
+package com.app.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.app.model.Customer;
+import com.app.repo.CustomerRepository;
+import com.app.service.ICustomerService;
+
+public class CustomerServiceImpl implements ICustomerService {
+	@Autowired
+	private CustomerRepository repo;
+  @Transactional
+  public Integer saveCustomer(Customer c) {
+	c=repo.save(c);
+	return c.getCid();
+}
+}
